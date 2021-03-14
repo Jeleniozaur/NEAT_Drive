@@ -1,0 +1,7 @@
+1. Attach NeuralNet in creature prefab and setup your layers counts;
+2. Attach FitnessData in creature prefab
+3. Make a script that communicate with FitnessData and change FitnessData.fitness to your liking.
+4. Drop NEAT prefab anywhere in space.
+5. You might want to drop NeuralNet_UI prefab to avoid errors.
+
+Use NeuralNet.setInputValue for layers[0] and NeuralNet.getOutputValue for layers[count-1]

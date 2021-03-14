@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f5a5ea78c957ca34ab80c5d0f14c5419
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nodePrefab: {fileID: 6064936531312711140, guid: 1f76c34e53117f942beeaad663e34b2d,
+      type: 3}
+  - connectionPrefab: {fileID: 2970874943618839449, guid: fa64036779eff3146b9157a48e6fa30d,
+      type: 3}
+  - canvasPrefab: {fileID: 455543469162788551, guid: bc8c26dfa0cd9c24f95f13832cbf9534,
+      type: 3}
+  - uiParent: {fileID: 5866923173645514911, guid: 01450591b3762174faf1905715e30dac,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
